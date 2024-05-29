@@ -4,7 +4,7 @@
 
 🔧 I spend most of my time tinkering with data pipelines, ensuring smooth data flow and efficient processing.
 
-🏢 Currently, I'm proud to be a part of the Data Engineering team at [@AmericanExpress](https://www.americanexpress.com/en-in/), where I contribute to building robust big data pipeline with financial risk data in an on-prem setup
+🏢 Currently, I'm proud to be a part of the Data Engineering team at [@AmericanExpress](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAmerican_Express_logo_%25282018%2529.svg&psig=AOvVaw1rA4wmUs8qyv3PTj4rJAOE&ust=1717105804301000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiMnd3rs4YDFQAAAAAdAAAAABAE)(https://www.americanexpress.com/en-in/), where I contribute to building robust big data pipeline with financial risk data in an on-prem setup
 
 Big data ecosystems always intrigue me. From designing ingestion frameworks for both batch and real-time workloads to crafting insightful visualizations for strategic decision-making, I've had the privilege of working across various levels of organizational data hierarchy.
 
