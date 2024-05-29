@@ -1,9 +1,6 @@
 <style>
   body {
     font-size: small;
-  }
-</style>
-
 # Kshitij's Profile
 
 👋 Hello there! I'm Kshitij, a Data Engineer from India. 
@@ -37,6 +34,8 @@ Big data ecosystems always intrigue me. From designing ingestion frameworks for 
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width:40px;height:40px;">
   </a>
 </p>
+     }
+</style>
 
 
 
