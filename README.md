@@ -1,6 +1,6 @@
 <span style="font-size:50%">
 
-# Kshitij's Profile
+## Kshitij's Profile
 
 👋 Hello there! I'm Kshitij, a Data Engineer from India. 
 
