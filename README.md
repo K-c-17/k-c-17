@@ -1,4 +1,4 @@
-<span style="font-size:70%">
+<span style="font-size:50%">
 
 # Kshitij's Profile
 
