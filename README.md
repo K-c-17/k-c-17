@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-size: small;
+  }
+</style>
+
 # Kshitij's Profile
 
 👋 Hello there! I'm Kshitij, a Data Engineer from India. 
