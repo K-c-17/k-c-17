@@ -15,21 +15,12 @@ Big data architectures of orgs always fascinate it. From building ingestion fram
 - **Other Tools/Skills** - R, MATLAB, Shell, Git, JIRA, HTML, CSS, JavaScript, MySQL, JSON, Crontab, Jethro, PostgreSQL
 
 **Let's connect!** <br>
-<a href="https://www.linkedin.com/in/kshitij-chauhan-de/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" style="width:40px;height:40px;">
-</a>
-
-<a href="mailto:kshitij03071997@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="LinkedIn" style="width:40px;height:40px;">
-</a>
-
-**Let's connect!** <br>
 <p>
   <a href="https://www.linkedin.com/in/kshitij-chauhan-de/" target="_blank" style="display:inline-block;margin-right:10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" style="width:120px;height:auto;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" style="width:40px;height:40px;">
   </a>
   <a href="mailto:kshitij03071997@gmail.com" style="display:inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width:120px;height:auto;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width:40px;height:40px;">
   </a>
 </p>
 
