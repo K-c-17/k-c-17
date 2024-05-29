@@ -1,6 +1,6 @@
 # Kshitij's Profile
 
-👋 Hello there! I'm Kshitij, a Data Engineer from HP,India. 
+👋 Hello there! I'm Kshitij, a Data Engineer from India. 
 
 🔧 I spend most of my time tinkering with data pipelines, ensuring smooth data flow and efficient processing.
 
