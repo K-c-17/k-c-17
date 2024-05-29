@@ -1,8 +1,4 @@
-<style>
-  body {
-    font-size: small;
-  }
-</style>
+<span style="font-size:smaller">
 
 # Kshitij's Profile
 
