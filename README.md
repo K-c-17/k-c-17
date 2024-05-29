@@ -14,7 +14,7 @@ Big data architectures of orgs always fascinate it. From building ingestion fram
 - **Cloud Computing/Analytics** - Amazon Web Services (S3, Athena, RDS, DynamoDB), Google Cloud Platform (BigQuery)
 - **Other Tools/Skills** - R, MATLAB, Shell, Git, JIRA, HTML, CSS, JavaScript, MySQL, JSON, Crontab, Jethro, PostgreSQL
 
-**Let's connect!** 
+**Let's connect!** <br>
 <a href="https://www.linkedin.com/in/kshitij-chauhan-de/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" style="width:40px;height:40px;">
 </a>
