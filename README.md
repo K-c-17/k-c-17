@@ -26,6 +26,7 @@ Big data ecosystems always intrigue me. From designing ingestion frameworks for 
   <a href="https://www.linkedin.com/in/kshitij-chauhan-de/" target="_blank" style="margin-right: 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" style="width:40px;height:40px;">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kshitij03071997@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width:40px;height:40px;">
   </a>
