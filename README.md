@@ -6,7 +6,7 @@
 
 🔧 I spend most of my time tinkering with data pipelines, ensuring smooth data flow and efficient processing.
 
-🏢 Currently, I'm pursuing my Masters in Business Analytics and Information Management from [@Purdue University](https://github.com/Purdue). I have been a former memeber of the Data Engineering team at [@AmericanExpress](https://github.com/americanexpress), where I contributed to building robust big data pipeline with financial risk data in an on-prem setup
+🏢 Currently, I'm pursuing my Masters in Business Analytics and Information Management from [@Purdue University](https://github.com/Purdue). I have been a former member of the Data Engineering team at [@AmericanExpress](https://github.com/americanexpress), where I contributed to building robust big data pipeline with financial risk data in an on-prem setup
 
 Big data ecosystems always intrigue me. From designing ingestion frameworks for both batch and real-time workloads to crafting insightful visualizations for strategic decision-making, I've had the privilege of working across various levels of organizational data hierarchy.
 
