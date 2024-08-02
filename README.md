@@ -2,7 +2,7 @@
 
 ## Kshitij's Profile
 
-👋 Hello there! I'm Kshitij, a Data Engineer from India. 
+👋 Hello there! I'm Kshitij, a Data Engineer in US. 
 
 🔧 I spend most of my time tinkering with data pipelines, ensuring smooth data flow and efficient processing.
 
