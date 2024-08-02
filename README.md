@@ -20,6 +20,8 @@ Big data ecosystems always intrigue me. From designing ingestion frameworks for 
 
 - **Cloud Computing/Analytics**: Amazon Web Services (S3, Athena, RDS, DynamoDB), Google Cloud Platform (BigQuery)
 
+-  **Web Scraping**: Beautiful Soup, Selenium, Scrapy, Splash
+
 - **Other Tools/Skills**: R, MATLAB, Shell, Git, JIRA, HTML, CSS, JavaScript, MySQL, JSON, Crontab, PostgreSQL
 
 ### Let's Connect!
