@@ -35,8 +35,8 @@ Big data ecosystems always intrigue me. From designing ingestion frameworks for 
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width:40px;height:40px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://k-c-17.github.io/">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281761.png" alt="Website" style="width:40px;height:40px;">
+  <a href="https://k-c-17.github.io/" target="_blank" style="margin-right: 40px;">
+    <img src="https://i.pinimg.com/originals/86/c3/05/86c30529904c3a992eb7241299e5f3e5.png" alt="Website" style="width:50px;height:50px;">
   </a>
 </p>
 
