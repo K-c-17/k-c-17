@@ -25,6 +25,16 @@ Big data ecosystems always intrigue me. From designing ingestion frameworks for 
 - **Other Tools/Skills**: R, MATLAB, Shell, Git, JIRA, HTML, CSS, JavaScript, MySQL, JSON, Crontab, PostgreSQL
 
 ### Let's Connect!
+<style>
+  a {
+    text-decoration: none; /* Remove underline from links */
+    outline: none; /* Remove focus outline */
+  }
+  img {
+    display: inline-block; /* Ensure images are inline-block to avoid extra spacing issues */
+    vertical-align: middle; /* Align images with the text vertically */
+  }
+</style>
 
 <p>
   <a href="https://www.linkedin.com/in/kshitij-chauhan-de/" target="_blank" style="margin-right: 40px;">
